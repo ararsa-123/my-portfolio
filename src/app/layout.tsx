@@ -33,9 +33,9 @@ export const metadata: Metadata = {
     "health diplomacy",
     "tuberculosis",
     "digital health",
-    global health governance",
-    Islamic reflections",
-    Islamic children's learning",
+    "global health governance",
+    "Islamic reflections",
+    "Islamic children's learning",
   ],
   openGraph: {
     type: "website",
