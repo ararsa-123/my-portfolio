@@ -53,7 +53,7 @@ export default function HomePage() {
               <h2>Four areas. One connected purpose.</h2>
             </div>
             <p>
-              Each area has its own audience and editorial standards. The children's studio
+              Each area has its own audience and editorial standards. The children’s studio
               will remain separate from adult reflections and professional content.
             </p>
           </div>
@@ -88,7 +88,7 @@ export default function HomePage() {
             </article>
             <article className="principle">
               <h3>Knowledge with purpose</h3>
-              <p>Professional work, reflective learning, and children's education each receive the context and care they require.</p>
+              <p>Professional work, reflective learning, and children’s education each receive the context and care they require.</p>
             </article>
           </div>
         </div>
