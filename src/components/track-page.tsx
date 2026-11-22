@@ -20,7 +20,7 @@ export function TrackPage({
   tone = "professional",
 }: TrackPageProps) {
   return (
-    <main className={`track-page track-page-${tone}`}>
+    <main id="main-content" className={`track-page track-page-${tone}`}>
       <section className="track-hero">
         <div className="container-wide track-hero-inner">
           <p className="eyebrow">{eyebrow}</p>
